@@ -1,11 +1,25 @@
 # 📰 PulseReader
 
 <div align="center">
-  <img src="assets/screenshot_1.jpeg" width="180"/>
-  <img src="assets/screenshot_2.jpeg" width="180"/>
-  <img src="assets/screenshot_3.jpeg" width="180"/>
-  <img src="assets/screenshot_4.jpeg" width="180"/>
-  <img src="assets/screenshot_5.jpeg" width="180"/>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="assets/screenshot_1.jpeg" width="200"/>
+      </td>
+      <td align="center">
+        <img src="assets/screenshot_2.jpeg" width="200"/>
+      </td>
+      <td align="center">
+        <img src="assets/screenshot_3.jpeg" width="200"/>
+      </td>
+      <td align="center">
+        <img src="assets/screenshot_4.jpeg" width="200"/>
+      </td>
+      <td align="center">
+        <img src="assets/screenshot_5.jpeg" width="200"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
